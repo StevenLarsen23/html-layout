@@ -71,5 +71,5 @@ header {
 .text {
     text-align: center;
     font-size: 50px;
-    vertical-align: middle;
+    padding-top: 25%;
 }
